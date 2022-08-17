@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/test-chat/static/js/main.83adb2af.js",
+    "index.html": "/test-chat/index.html",
+    "main.83adb2af.js.map": "/test-chat/static/js/main.83adb2af.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83adb2af.js"
+  ]
+}
